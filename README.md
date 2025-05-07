@@ -7,4 +7,3 @@ Go in the folder
 `cd IAokay`<br>
 Launch
 `python3 ai.py`
-# IAokay
